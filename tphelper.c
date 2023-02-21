@@ -5,6 +5,7 @@
  *
  * Return: pointer to array of user strings
  */
+
 char **tokenize(char *buffer)
 {
 	char *token = NULL;
