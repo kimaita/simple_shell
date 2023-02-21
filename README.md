@@ -1,2 +1,3 @@
-# simple_shell
-alx team project
+# alx Team Project: Simple Shell
+
+## Partner: [Betham Kaberia](https://github.com/BethamM)
